@@ -1,1 +1,1 @@
-## Different type of Rag Projects and Techniques
+## Different types of Rag Approaches
