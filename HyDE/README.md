@@ -7,4 +7,12 @@ LLM gives answer based on chunks.
 
 ![Ekran görüntüsü 2024-11-23 172544](https://github.com/user-attachments/assets/34c8a59c-47e4-4775-9bc4-2fb1f2b76587)
 
-Advantages 🔎:
+Key Advantages 🔎: 
+-This approach helps to get more context-aware answer
+
+-Robust to  question that lacks specificity or lacks easily identifiable elements to derive an answer from a given context,
+
+-Reduce hallucinations because HyDE first generates a general hypothetical response and retrieves authoritative articles to base the final answer on factual content.
+
+-Zero-Shot Retrieval: HyDE can work “out of the box” without relying on a large dataset of labeled examples.
+
