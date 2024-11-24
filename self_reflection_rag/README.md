@@ -1,4 +1,4 @@
-## Self-Reflective Retrieval-Augmented Generation (SELF-RAG) ![robot_1f916](https://github.com/user-attachments/assets/416028a9-8a94-4a8c-a1ec-d1f7b03a4c53)
+## Self-Reflective Retrieval-Augmented Generation (SELF-RAG)
 
 Self-Retrieval-Augmented Generation (Self-RAG) is an advanced RAG paradigm where the language model (LLM) is directly responsible for both the retrieval of relevant information and the generation of responses. Unlike standard RAG.
 
