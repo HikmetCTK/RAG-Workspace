@@ -1,3 +1,3 @@
 ## Different types of Rag Approaches
 
-![dino and chatbot](https://github.com/user-attachments/assets/c0105c5e-13a5-4950-bbf4-5bd2379eae79)
+![DQeyfwiikQkImEJrUp1AN0hNSP6TNTvKMoQ9OaGOaH5IIN0TA](https://github.com/user-attachments/assets/62159767-7170-4762-a6c7-6a4e33c1b49e)
