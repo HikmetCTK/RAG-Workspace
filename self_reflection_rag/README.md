@@ -6,7 +6,7 @@ It provides to evaluate own response thanks to sharing response of llm amongs mo
 
 ![Screenshot 2024-11-24 150721](https://github.com/user-attachments/assets/df0bf321-1d48-4c44-8fcb-e3ab0120066c)
 
-Behind the logic:🧩🚀
+# Behind the logic:🧩🚀
 
 First, like normal rag implenetation it answers user question. Then another agent evaluate response of llm  based on query, context  and response 
 Evaluation metrics:
