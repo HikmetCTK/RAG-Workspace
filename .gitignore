@@ -8,3 +8,4 @@ tmp/nanoc/
 
 # Crash Log
 crash.log
+self_reflection_rag/self_rag.py
