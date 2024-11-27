@@ -2,7 +2,7 @@
 
 Self-Retrieval-Augmented Generation (Self-RAG) is an advanced RAG paradigm where the language model (LLM) is directly responsible for both the retrieval of relevant information and the generation of responses. Unlike standard RAG.
 
-It provides to evaluate own response thanks to sharing response of llm amongs more than one agent.
+It provides to evaluate own response thanks to sharing response of llm amongs many llm.
 
 ![Screenshot 2024-11-24 150721](https://github.com/user-attachments/assets/df0bf321-1d48-4c44-8fcb-e3ab0120066c)
 
