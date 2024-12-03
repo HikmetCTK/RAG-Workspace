@@ -156,6 +156,6 @@ if __name__ == "__main__":
     docs = rag.load_and_split()
     vectorstore = rag.vector_store(docs)
     
-    query = "what is SMOTE ?"
+    query = "What metrics were employed to evaluate the effectiveness of the classifiers?"
     response = rag.generate_response(query)
     print(response)
