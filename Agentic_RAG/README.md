@@ -11,7 +11,7 @@ Use reasoning to select the best external data for generating accurate responses
 
 Execute tasks by interacting with APIs, databases, or other external systems.
 
-🔍 How Does It Work?
+## 🔍 How Does It Work?
 
 Input Understanding: The user provides a query or task.
 
