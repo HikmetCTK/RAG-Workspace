@@ -8,7 +8,7 @@ This project demonstrates an advanced Retrieval-Augmented Generation (RAG) syste
 ## Features⚙️
 
 *   **Multi-Modal Data Handling:** Processes text from PDFs, structured table data (from JSON), and image content.
-*   **Table Extraction:** Utilizes pre-processed table data extracted via Azure Document Analysis (provided as a JSON file).
+*   **Table Extraction:** Utilizes pre-processed table data extracted via `Azure Document Analysis` from `Document Intelligence Studio` (provided as a JSON file).
 *   **Image Understanding:** Uses Gemini Vision (`gemini-2.0-flash`) to generate descriptions of images within the document context.
 *   **PDF Parsing:** Loads and splits PDF document text into manageable chunks using LangChain.
 *   **Hybrid Retrieval:** Employs an `EnsembleRetriever` combining:
