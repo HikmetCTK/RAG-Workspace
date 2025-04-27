@@ -46,3 +46,20 @@ This project demonstrates an advanced Retrieval-Augmented Generation (RAG) syste
 7.  **Web Interface:**
     *   `main`: Orchestrates the data loading, processing, and retriever setup.
     *   Initializes and launches a Gradio interface for user interaction.
+
+## Behind The Logic 💭
+Most parsing libraries struggle to extract tables or images without losing critical information because of limitations in their parsing algorithms.
+
+When raw table data is directly extracted (for example, in JSON format), keyword search (like BM25) becomes very effective for answering specific table-related questions.
+
+On the other hand, vector embeddings often struggle to handle fine-grained queries about specific rows or columns in tables, making them less accurate for structured data retrieval.
+
+However, for questions related to images or text documents, semantic retrieval (based on vector similarity) works much better, capturing the meaning even when the wording differs.
+
+Therefore, hybrid retrieval — combining keyword-based and semantic-based retrievers — ensures that:
+
+* Table-related queries benefit from precise keyword matching.
+
+* Image and text-related queries benefit from semantic understanding.
+
+This approach provides a balanced and robust system that handles different query types effectively across various data modalities.
