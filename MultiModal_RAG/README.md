@@ -4,7 +4,10 @@
 
 ## Demo Video🎥
 
-
+<h3>📹 Projemin Tanıtım Videosu</h3>
+<video src="https://github.com/user-attachments/assets/74700deb-8570-4a2b-b137-ede0940e19b4" controls width="600">
+  Tarayıcınız video öğesini desteklemiyor.
+</video>
 
 
 https://github.com/user-attachments/assets/74700deb-8570-4a2b-b137-ede0940e19b4
