@@ -4,15 +4,8 @@
 
 ## Demo Video🎥
 
-<h3>📹 Projemin Tanıtım Videosu</h3>
-<video src="https://github.com/user-attachments/assets/74700deb-8570-4a2b-b137-ede0940e19b4" controls width="600">
-  Tarayıcınız video öğesini desteklemiyor.
-</video>
 
-
-https://github.com/user-attachments/assets/74700deb-8570-4a2b-b137-ede0940e19b4
-
-
+https://github.com/user-attachments/assets/764952dd-9573-48d9-818b-8755cfa9c2b3
 
 
 ## Overview🔎
